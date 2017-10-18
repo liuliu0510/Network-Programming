@@ -1,0 +1,5 @@
+The server is a commond-line based server of a broadcast chatting room.
+In commond-line type "make" to compile the server;
+Next type "./server (IP address) (port number) (max clients)" to start.
+The server support all required function.
+In case of preventing accidently shut down the server, typing "#shutdown" is the only way to shut down the server

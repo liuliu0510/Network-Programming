@@ -1,0 +1,150 @@
+ID_P,Title,City,Popularity
+1,Three Monks,Hong Kong,7
+2,"Force of One, A",Fuzhou,5
+3,Dharti Ke Lal,Kunming,4
+4,Two Drops of Water,Guangzhou,3
+5,Damn Yankees,Guiyang,6
+6,"Pajama Game, The",Hohhot,7
+7,"Corporation, The",Nanchang,4
+8,Okhota na lis,Shanghai,2
+9,"Train Has Stopped, The",Changchun,3
+10,Parad planet,Yinchuan,6
+11,Time of a Dancer,Changsha,8
+12,"Iceberg, L'",Hangzhou,9
+13,Bidaya wa nihaya,Zhengzhou,4
+14,"Water Carrier Has Died, The",Nanjing,4
+15,State of the World,Harbin,3
+16,Agraharathil Kazhuthai,Tianjin,4
+17,Amma Ariyan,Shijiazhuang,5
+18,Airplane!,Chongqing,5
+19,Top Secret!,Wuhan,6
+20,Ruthless People,Taiyuan,7
+21,Adam & Paul,Shenyang,2
+22,Garage,Chengdu,7
+23,Star Trek,Hefei,8
+24,Super 8,Xi'an,6
+25,Rana's Wedding,Beijing,4
+26,Ford Transit,Gelsenkirchen,7
+27,Paradise Now,Regensburg,4
+28,Vedreba,Essen,6
+29,Repentance,Dortmund,6
+30,Tashan,Reutlingen,7
+31,Noam Chomsky and the Media,Leipzig,3
+32,"Last Hole, The",Stuttgart,2
+33,"Raft of the Medusa, The",Dusseldorf,4
+34,Red Boogie,Cottbus,7
+35,A.K.A. Serial Killer,Weimar,8
+36,Red Army: Declaration of World War,Dresden,4
+37,Prisoner/Terrorist,Accra,3
+38,Word is Out,Athens,2
+39,"The Lion, the Witch, The",Volos,1
+40,Shrek,Larissa,5
+41,Shrek 2,Patra,5
+42,"Forest for the Trees, The",Thessaloniki,6
+43,Everyone Else,Guatemala city,5
+44,Under the Skin [1997],Gyor,7
+45,Bordello of Blood,Debrecen,8
+46,Up in Smoke,Budapest,2
+47,Ladies and Gentlemen,Reykjavik,1
+48,Bagdad Cafe,Akureyri,3
+49,Three Monks,Amritsar,4
+50,"Force of One, A",Torun,5
+51,Dharti Ke Lal,Bialystok,6
+52,Two Drops of Water,Bydgoszcz,7
+53,Damn Yankees,Lublin,2
+54,"Pajama Game, The",Gdynia,1
+55,"Corporation, The",Wloclawek,5
+56,Okhota na lis,Kalisz,2
+57,"Train Has Stopped, The",Lodz,6
+58,Parad planet,Poznan,7
+59,Time of a Dancer,Plock,4
+60,"Iceberg, L'",Kielce,4
+61,Bidaya wa nihaya,Rzeszow,5
+62,"Water Carrier Has Died, The",Radom,6
+63,State of the World,Opole,7
+64,Agraharathil Kazhuthai,Gorzow Wielkopolski,3
+65,Amma Ariyan,Warszawa,2
+66,Airplane!,Legnica,4
+67,Top Secret!,Czestochowa,5
+68,Ruthless People,Jelenia Gora,6
+69,Time of a Dancer,Wroclaw,7
+70,"Iceberg, L'",Bytom,2
+71,Bidaya wa nihaya,Denizli,4
+72,"Water Carrier Has Died, The",Kars,5
+73,State of the World,Konya,6
+74,Agraharathil Kazhuthai,Van,7
+75,Amma Ariyan,Abu Dhabi,2
+76,Airplane!,Al Ain,4
+77,Top Secret!,Wirral,5
+78,Ruthless People,Edinburgh,6
+79,Adam & Paul,Birmingham,7
+80,Garage,Liverpool,5
+81,Star Trek,Aberdeen,6
+82,Three Monks,Leicester,7
+83,"Force of One, A",Blackpool,2
+84,Dharti Ke Lal,Newcastle upon Tyne,8
+85,Two Drops of Water,Kingston-upon-Hull,9
+86,Damn Yankees,Swansea,7
+87,"Pajama Game, The",Coventry,5
+88,"Corporation, The",Nottingham,7
+89,Okhota na lis,Belfast,3
+90,"Train Has Stopped, The",Preston,8
+91,"Long Goodbye, The","Dover, DE",4
+92,California Split,"Natchez, MS-LA",7
+93,Thieves Like Us,"Oklahoma City, OK",8
+94,Nashville,"Rockford, IL",9
+95,3 Women,"Springfield, MO",3
+96,"Wedding, A","Yakima, WA",3
+97,"Perfect Couple, A","Buffalo-Niagara Falls, NY",5
+98,Quintet,"Burlington, NC",6
+99,H.E.A.L.T.H.,"Fayetteville, NC",7
+100,Popeye,"Greensboro-High Point, NC",6
+101,Come Back to the Five and Dime,"Mobile, AL",4
+102,Streamers,"Rutland, VT",7
+103,Secret Honor,"Adrian, MI",8
+104,O.C. and Stiggs,"Beaver Dam, WI",9
+105,Beyond Therapy,"Brunswick, GA",4
+106,Tanner '88 [TV],"Cleveland, MS",3
+107,Vincent & Theo,"Columbus, MS",2
+108,"Player, The","Corpus Christi, TX",4
+109,Short Cuts,"Dyersburg, TN",5
+110,Kansas City,"Fort Payne, AL",6
+111,Remembrances of Kansas City Swing,"Grand Junction, CO",7
+112,Gosford Park,"Helena-West Helena, AR",4
+113,"Company, The","Chico, CA",3
+114,"Prairie Home Companion, A","Clarksville, TN-KY",6
+115,Puerta cerrada,"El Dorado, AR",7
+116,"Sky Turns, The","Huntsville, AL",8
+117,"Hanoi, Tuesday 13th","Medford, OR",3
+118,Hasta la victoria siempre,"Austin-Round Rock, TX",2
+119,Now,"Bloomington-Normal, IL",1
+120,LBJ/LBJ and Others,"Fort Madison-Keokuk, IA-MO",5
+121,79 primaveras,"Gulfport-Biloxi, MS",6
+122,Take-Off at 18:00 Hours,"Hot Springs, AR",7
+123,Mi hermano Fidel,"Kalamazoo-Portage, MI",8
+124,Jaws 3-D,"Keene, NH",4
+125,Sahib Bibi Aur Ghulam,"Michigan City-La Porte, IN",2
+126,God Bless You,"Mount Vernon, IL",5
+127,Hour of the Star,"San Jose-Sunnyvale-Santa Clara, CA",6
+128,Viver a Vida,"Shreveport-Bossier City, LA",7
+129,Um Ceu de Estrelas,"Baton Rouge, LA",8
+130,Hum Dono,"Boston-Cambridge-Quincy, MA-NH",3
+131,Family [2001],"Boston-Quincy, MA",5
+132,"Stolen Children, The","Cambridge-Newton-Framingham, MA",6
+133,Lamerica,"Appleton, WI",7
+134,Tesis,"Cedar Rapids, IA",8
+135,Open Your Eyes,"Frankfort, KY",3
+136,"Others, The","Las Cruces, NM",2
+137,"Sea Inside, The","Middlesborough, KY",5
+138,3 Women,"Spartanburg, SC",7
+139,Come Back to the Five and Dime,"Warner Robins, GA",8
+140,Short Cuts,"Winchester, VA-WV",5
+141,Tesis,"Champaign-Urbana, IL",2
+142,Jaws 3-D,"La Crosse, WI-MN",8
+143,79 primaveras,"Provo-Orem, UT",3
+144,"Stolen Children, The","Waterloo-Cedar Falls, IA",8
+145,Open Your Eyes,"Bowling Green, KY",4
+146,"Sea Inside, The","Iowa City, IA",6
+147,Short Cuts,"Kansas City, MO-KS",2
+148,Open Your Eyes,"Sacramento--Arden-Arcade--Roseville, CA",4
+149,Jaws 3-D,"Springfield, IL",5

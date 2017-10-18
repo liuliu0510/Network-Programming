@@ -1,0 +1,9 @@
+This is a commond-line based client.
+In the commond-line, type "make" to compile the client;
+type "./client (username) (server IP) (server port)" to start.
+This client support all the function required.
+Username cannot be duplicated or you will be declined.
+If you've already connected to server, you can know who are online and chat with them by typing.
+Also, you will be decliend if the server has reached its limit of number of clients.
+You will automatically send IDLE if you do nothing within 10 second.
+You can shutdown your client client by type #exit or you can just press ctrl+c or just close your client window.
